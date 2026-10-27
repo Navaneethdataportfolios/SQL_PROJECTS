@@ -19,3 +19,4 @@ SQL Data Cleaning, Aggregate Functions, CTEs, Window Functions, and Exploratory 
 
 ![image alt](https://github.com/Navaneethdataportfolios/SQL_PROJECTS/blob/b4c66e4c891e9a9c17742a06942235d7e69d8b80/Screenshot%20(1).png)
 ![image alt](https://github.com/Navaneethdataportfolios/SQL_PROJECTS/blob/eff6648a9a38743c16eaaf1fcabffa1660da285b/Screenshot%20(2).png)
+![image alt](https://github.com/Navaneethdataportfolios/SQL_PROJECTS/blob/e43fff020ccc15d6a2267e4155c2d1ba0a2c644e/Screenshot%20(3).png)
