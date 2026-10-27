@@ -16,3 +16,5 @@ This project analyzes company layoffs using SQL to identify the companies with t
 
 ## Skills Demonstrated
 SQL Data Cleaning, Aggregate Functions, CTEs, Window Functions, and Exploratory Data Analysis.
+
+![image alt](https://github.com/Navaneethdataportfolios/SQL_PROJECTS/blob/b4c66e4c891e9a9c17742a06942235d7e69d8b80/Screenshot%20(1).png)
